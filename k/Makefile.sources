@@ -1,0 +1,2 @@
+SRC	= main.c kstd.c misc.c gdt.c pmode.c idt.c pic.c keyboard.c timer.c kfs.c
+ASM	= crt0.S isr.S

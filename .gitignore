@@ -1,0 +1,16 @@
+*~
+*.a
+*.o
+*.so
+*.swp
+*.log
+*.class
+*.iso
+*.core
+
+config.mk
+k_floppy
+roms/rom
+k/k
+sdk/mkkfs/mkkfs
+sdk/mkksf/mkksf
